@@ -144,4 +144,4 @@ Sample Dashboard:
 ---
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
->>>>>>> ae03f15 (Week6_PyViz_HW)
+>>>>>>> ae03f15 (Week6_PyViz_HW).
